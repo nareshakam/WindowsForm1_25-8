@@ -1,0 +1,17 @@
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.exe
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.deps.json
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.runtimeconfig.json
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.runtimeconfig.dev.json
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.dll
+D:\cSharp\customer\bin\Debug\netcoreapp3.1\customer.pdb
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.csproj.AssemblyReference.cache
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.csproj.GenerateResource.cache
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.AssemblyInfoInputs.cache
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.AssemblyInfo.cs
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.csproj.CoreCompileInputs.cache
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.dll
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.pdb
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.genruntimeconfig.cache
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.CustmerPreview.resources
+D:\cSharp\customer\obj\Debug\netcoreapp3.1\customer.CustmerRegistration.resources
